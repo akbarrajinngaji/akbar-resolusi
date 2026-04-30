@@ -2,5 +2,5 @@ akbar resolusi
 konsisten baca buku minimal 1-2 halaman (boleh lebih)
 menulis di threads / medium, khusus medium menggunakan bahasa inggris
 setiap belajar hal baru, usahakan di dokumentasikan 
-menyelesaikan proyek git dan github
 belajar linux setelah git dan github
+selalu makan sesuai jadwal 
